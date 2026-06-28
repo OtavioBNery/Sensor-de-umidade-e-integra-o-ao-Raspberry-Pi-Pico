@@ -11,4 +11,5 @@ João Luiz Du Plessis Lang – 22.00263-4​
 # Objetivo do projeto
 Desenvolvimento de um sistema composto por um sensor desenvolvido pelos integrantes e pelo microcontrolador Raspberry Pi Pico que atenda ao tema de sustentabilidade, sendo escolhido trabalhar com o desenvolvimento de um sensor capacitivo de umidade do solo
 
-# Descrição do projeto
+# Descrição do sistema
+Como pode ser visto no diagrama de blocos abaixo, o sistema consiste na leitura do valor obtido pelo sensor, sua exibição no LCD 16x2, e uma comparação com o valor da umidade percentual definida pelo usuario, de modo a gerar um controle por histerse para que atinja o valor de alvo por meio de uma lâmpada incandescente
