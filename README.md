@@ -1,2 +1,14 @@
-# Sensor-de-umidade-e-integra-o-ao-Raspberry-Pi-Pico
-Detalhes e arquivos referentes ao desenvolvimento de um sensor de umidade capacitivo controlado por um Raspberry Pi Pico com controle de umidade por lampada incandescente e histerese.
+# Sensor-de-umidade-e-integração-ao-Raspberry-Pi-Pico
+# Membros do projeto
+Filipe Tadeu Chudo Sepican – 23.00563-3​
+
+Gabriela de Castro Oliveira Szwif – 23.00868-7​
+
+Otávio Biadola Nery – 23. 01584-5​
+
+João Luiz Du Plessis Lang – 22.00263-4​
+
+# Objetivo do projeto
+Desenvolvimento de um sistema composto por um sensor desenvolvido pelos integrantes e pelo microcontrolador Raspberry Pi Pico que atenda ao tema de sustentabilidade, sendo escolhido trabalhar com o desenvolvimento de um sensor capacitivo de umidade do solo
+
+# Descrição do projeto
