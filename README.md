@@ -14,11 +14,13 @@ Desenvolvimento de um sistema composto por um sensor desenvolvido pelos integran
 # Descrição do sistema
 Como pode ser visto no diagrama de blocos abaixo, o sistema consiste na leitura do valor obtido pelo sensor, sua exibição no LCD 16x2, e uma comparação com o valor da umidade percentual definida pelo usuario, de modo a gerar um controle por histerse para que atinja o valor de alvo por meio de uma lâmpada incandescente
 <img src="Diagrama de blocos.png">
+<hr>
+
+# Localização de arquivos importantes
+Os arquivos de PCB, CAD, codigo do microcontrolador, apresentação do projeto e relátorio detalhado sobre o desenvolvimento da aplicação podem ser obtidos na pasta Projeto
 
 # Sensor finalizado
 <img src="Sensor montado.png">
 <hr>
 <img src="Projeto finalizado.jpg">
 <hr>
-# Localização de arquivos importantes
-Os arquivos de pcb, CAD, apresentação do projeto e relátorio detalhado sobre o desenvolvimento da aplicação podem ser obtidos na pasta Projeto
